@@ -7,6 +7,7 @@ Use [Markdown](https://www.markdownguide.org/basic-syntax) to format appropriate
 _Write your project description here_
 
 ## GUI Wireframe
-_Embed your wireframe image(s) here! Here is an example_
 
-![Silly cat](silly-cat.webp)
+
+<img width="4284" height="5712" alt="IMG_2653" src="https://github.com/user-attachments/assets/8543ca37-7e9e-4c20-88a3-02d15036c19c" />
+
